@@ -77,3 +77,5 @@ def pars_task_scool():
 
 
 pars_task_scool()
+# что то
+# xn jsdf sfreg er
