@@ -41,16 +41,6 @@ async def echo(message: types.Message):
             
     
    
-    
-    # for i in new_str:
-    #     for j in i:
-    #         await message.answer(j)
-
-
-
-# async def scheduled(wait_for):
-# 	while True:
-# 		await asyncio.sleep(wait_for)
 
 
 if __name__=='__main__':
